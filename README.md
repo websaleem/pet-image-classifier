@@ -1,0 +1,1 @@
+This repository contains python project code and associated files for the RMIT's AI Programming with Python Nanodegree program. This repository consists of all the corresponding image labels and notebooks for various coding exercises to complete the course.
