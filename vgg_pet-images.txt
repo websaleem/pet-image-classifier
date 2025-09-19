@@ -362,4 +362,4 @@ Incorrect Dog Breed Assignment:
 Real:             great pyrenees     Classifier:                         kuvasz
 Real:                     beagle     Classifier:  walker hound, walker foxhound
 
-** Total Elapsed Runtime: 0:0:20
+** Total Elapsed Runtime: 00:00:15

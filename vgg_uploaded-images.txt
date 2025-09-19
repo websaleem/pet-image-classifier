@@ -70,4 +70,4 @@ pct_correct_dogs    : 100.0%
 pct_correct_breed   : 100.0%
 pct_correct_notdogs : 100.0%
 
-** Total Elapsed Runtime: 0:0:2
+** Total Elapsed Runtime: 00:00:02

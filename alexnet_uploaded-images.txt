@@ -73,4 +73,4 @@ pct_correct_notdogs : 100.0%
 Incorrect Dog Breed Assignment:
 Real:                        dog     Classifier:                    appenzeller
 
-** Total Elapsed Runtime: 0:0:1
+** Total Elapsed Runtime: 00:00:00

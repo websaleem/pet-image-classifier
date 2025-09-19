@@ -76,7 +76,7 @@ def classify_images(images_dir, results_dic, model):
         model_label = classifier(file_full_path, model)
 
         # convert model_label to lower and strip any whitespace
-        model_label = model_label.lower().strip(' ')
+        model_label = model_label.lower().strip()
 
         # append results_dic list with model label at index 1
         results_dic[pet_file_name].append(model_label)
